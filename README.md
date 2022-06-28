@@ -14,7 +14,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in analysing fantasy football data to answer two basic questions:
+For this project, I was interestested in analyzing fantasy football data to answer two basic questions:
 
 1. Which offensive positions should you draft early?
 2. How does the strength of an opposing defense affect the play of certain players?
