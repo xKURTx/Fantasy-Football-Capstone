@@ -23,6 +23,7 @@ For this project, I was interestested in analyzing fantasy football data to answ
 
 1. It was determined that the most important position is the QB, however, early draft picks should focus on RB and WR.
 2. It was determined that with at least one examined player, there was a correlation between strength of defense and points scored.
+3. Further details [here](https://medium.com/@xkvsxe/fantasy-football-8b60af986f4e).
 
 ## File Descriptions <a name="files"></a>
 
